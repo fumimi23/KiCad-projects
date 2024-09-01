@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name kbd)(type KiCad)(uri C:/Users/highs/Documents/KiCad/kbd/kbd-0.9.0/kicad-footprints/kbd.pretty)(options "")(descr ""))
+  (lib (name Keebio-Parts)(type KiCad)(uri C:/Users/highs/Documents/KiCad/Keebio-Parts.pretty)(options "")(descr ""))
+)
